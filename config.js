@@ -3,5 +3,5 @@ module.exports = {
 	PAGE_TOKEN: 'EAAOPue2B4z4BAInhVy3vwH3x6Bkn9RikhcE1af24BCttg9as3xjPxsdGyQUY3of5MJflbZA7v1FylvmSeGdJzddsOeAP6b9YsGfQ0tNXyGCRN8MFuLZAWqNBvKeYwG1I0INhxFpGFa3TuTrz2T6GbZAz1j9etiDExZBCqm8M9TZBMs3vYSCn6'
 }
 npm run build
-node bin/fb-bot
+node bin/sivanhuang.github.io
 curl -ik -X POST "https://graph.facebook.com/v2.6/me/subscribed_apps?access_token=EAAOPue2B4z4BAInhVy3vwH3x6Bkn9RikhcE1af24BCttg9as3xjPxsdGyQUY3of5MJflbZA7v1FylvmSeGdJzddsOeAP6b9YsGfQ0tNXyGCRN8MFuLZAWqNBvKeYwG1I0INhxFpGFa3TuTrz2T6GbZAz1j9etiDExZBCqm8M9TZBMs3vYSCn6"
