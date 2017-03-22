@@ -2,11 +2,11 @@
 
 # General settings
 lang: en
-title: Inclusion jekyll theme
+title: Sivan Huang
 email: mail@orlovmax.com
 author: Maxim Orlov
-description: "Responsive blog theme for jekyll website generator"
-keywords: "jekyll theme, jekyll template, responsive jekyll theme"
+description: "Test!"
+keywords: "sivan huang"
 
 # URL settings
 baseurl: "/jekyll-inclusion" # the subpath of your site, e.g. /blog/
