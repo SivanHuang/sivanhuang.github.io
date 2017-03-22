@@ -70,3 +70,5 @@ tags:
   # tag name word delimiter, '_' by defult
   delimiter: '_'
   layout: tag.html
+
+theme: jekyll-theme-cayman
